@@ -1,3 +1,4 @@
+#pragma once;
 #include <iostream>
 #include "Orchester.h"
 using namespace std;
